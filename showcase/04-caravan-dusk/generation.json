@@ -1,0 +1,25 @@
+{
+  "slug": "04-caravan-dusk",
+  "title": "Caravan at Dusk",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "8b31399b-0630-46a0-882e-85390eced331",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 6
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 6.584,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 8410368
+  },
+  "cost": {
+    "cny": 0.24,
+    "wallSec": 184.8
+  },
+  "file": "768p.mp4"
+}

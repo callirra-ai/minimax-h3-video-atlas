@@ -1,0 +1,25 @@
+{
+  "slug": "06-fps-corridor",
+  "title": "First-Person Corridor",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "68775a01-40ce-431a-b16a-416900acd8ac",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 6
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 6.584,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 6404331
+  },
+  "cost": {
+    "cny": 0.24,
+    "wallSec": 179.6
+  },
+  "file": "768p.mp4"
+}

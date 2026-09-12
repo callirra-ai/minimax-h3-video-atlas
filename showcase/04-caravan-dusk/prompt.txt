@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] Live-action, anamorphic wide. A line of seven camels carrying riders and rolled carpets crosses a flat gravel plain at last light, moving right to left. They are small in the frame; the caravan occupies the middle third and the horizon sits high, so the plain dominates. Low sun from behind the caravan throws long shadows forward toward the camera and turns the dust the animals raise into a bright haze. The camera holds a static shot for the first beats, then trucks right with large amplitude at slow speed, matching the caravan's pace, so the animals stay in the same place in frame while the plain slides past behind them. No faces are visible at any point; the riders read as silhouettes against the light.
+
+overall_soundscape: Wind moving across open ground with nothing to obstruct it, the soft irregular thud of hooves on dry gravel, tack creaking with each step, and a long low bird call somewhere behind the camera.
+
+non_diegetic_music: A single sustained cello note, very low, held under the whole shot without changing. No melody, no percussion.

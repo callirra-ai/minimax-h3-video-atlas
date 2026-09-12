@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] Documentary, handheld, square composition, available light only. A night market food stall seen from directly in front, filling the frame. Two cooks work behind a counter of scratched stainless steel; the one on the left turns skewers over a charcoal trough and the one on the right ladles broth from a pot into a bowl and hands it forward, off frame. Steam rises continuously between the camera and the stall, catching the row of bare bulbs hanging above the counter and going bright where it crosses them. The queue is visible only as out-of-focus dark shapes at the left and right edges of the frame, never in the centre. The camera holds a static shot with small handheld drift. The colour temperature is mixed: warm tungsten from the bulbs, a cooler spill from the neighbouring stall at the right edge, and the orange glow of the charcoal from below.
+
+overall_soundscape: A busy market at close range. Charcoal ticking, skewers turning against a metal grill, broth being poured, several conversations overlapping so that no single word is intelligible, and a stack of bowls being set down.
+
+non_diegetic_music: N/A

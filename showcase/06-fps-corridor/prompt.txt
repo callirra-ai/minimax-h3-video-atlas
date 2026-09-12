@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] First-person, eye level, handheld gameplay camera, as if recorded from a modern first-person game. The camera advances down a narrow concrete service corridor lit by a single row of caged bulbs along the ceiling, some of them flickering. Both gloved hands are visible in the lower part of the frame holding a compact device; the hands sway slightly with each footstep and the device dips when the operator turns. The camera moves forward at a steady walking pace, stops completely for a beat as a door at the end of the corridor opens on its own, then continues forward with small amplitude at slow speed. Dust hangs in the light. The palette is cold concrete and blue-grey; there is no warm light anywhere in the frame. Do not show a crosshair or any interface.
+
+overall_soundscape: Footsteps on concrete with a short hard reverb down the corridor, the hum of the caged bulbs, a faint electrical buzz from the flickering one, and the dry clack of the door mechanism at the end before it swings.
+
+non_diegetic_music: A slow low drone in a minor key with no rhythm, rising very slightly in volume across the shot.

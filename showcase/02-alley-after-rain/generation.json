@@ -1,0 +1,25 @@
+{
+  "slug": "02-alley-after-rain",
+  "title": "Alley After Rain",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "d7c79976-042e-4af3-a228-a77774e5cbd5",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 5
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 5.167,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 8783226
+  },
+  "cost": {
+    "cny": 0.2,
+    "wallSec": 138.7
+  },
+  "file": "768p-h.mp4"
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "03-ink-1080p",
+  "title": "One Stroke of Ink",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_image_audio_to_video_v2",
+  "taskId": "642750ad-7966-4d6b-9e63-37bff28f4f80",
+  "requested": {
+    "resolution": "1080p横",
+    "duration": 5
+  },
+  "measured": {
+    "width": 1920,
+    "height": 1056,
+    "fps": 24,
+    "durationSec": 5.167,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 5002727
+  },
+  "cost": {
+    "cny": 0.5,
+    "wallSec": 234.8
+  },
+  "file": "1080p-h.mp4"
+}

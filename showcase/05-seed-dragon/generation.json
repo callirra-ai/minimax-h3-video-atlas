@@ -1,0 +1,25 @@
+{
+  "slug": "05-seed-dragon",
+  "title": "Dragon Made of Seeds",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "8338074f-f682-4426-8016-69ed91bca723",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 6
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 6.584,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 3414340
+  },
+  "cost": {
+    "cny": 0.24,
+    "wallSec": 252.8
+  },
+  "file": "768p.mp4"
+}

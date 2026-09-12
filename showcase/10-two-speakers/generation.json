@@ -1,0 +1,25 @@
+{
+  "slug": "10-two-speakers",
+  "title": "Two Speakers, One Line Each",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "c58810d6-7e19-43a3-a709-246149a460d3",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 8
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 8,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 2190922
+  },
+  "cost": {
+    "cny": 0.32,
+    "wallSec": 214.6
+  },
+  "file": "768p.mp4"
+}

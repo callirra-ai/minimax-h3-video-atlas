@@ -1,0 +1,25 @@
+{
+  "slug": "01-lantern-canal",
+  "title": "Lantern on a Canal",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "ed635f1e-860d-4d16-8201-e049ee6c819a",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 6
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 5.167,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 3366936
+  },
+  "cost": {
+    "cny": 0.2,
+    "wallSec": 511.7
+  },
+  "file": "768p-h.mp4"
+}

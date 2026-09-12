@@ -1,0 +1,25 @@
+{
+  "slug": "09-kite-festival-15s",
+  "title": "Kite Festival, Full Length",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "48814f05-75cb-42f1-b1dc-eb6a7c35b6a6",
+  "requested": {
+    "resolution": "768p横",
+    "duration": 15
+  },
+  "measured": {
+    "width": 1344,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 15.084,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 15123810
+  },
+  "cost": {
+    "cny": 0.6,
+    "wallSec": 862.2
+  },
+  "file": "768p.mp4"
+}

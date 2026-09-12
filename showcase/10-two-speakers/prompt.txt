@@ -1,0 +1,7 @@
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, shallow depth of field, night interior. A small kitchen lit by one bulb over a table. Two people sit opposite each other: an older man in a dark jacket on the left, a young woman in a grey sweater on the right. Both are in medium shot from the chest up. The camera holds a static shot. The man (S1) says in a soft, tired voice: <d>[English] You already knew. You just wanted me to say it.</d> He looks down at the table as he finishes and does not lift his head. The woman (S2) replies, quietly and without moving anything but her mouth: <d>[English] I wanted you to say it first.</d> Neither of them leaves their seat and neither of them touches the other.
+
+[Shot 2] At 00:05.000, the camera cuts to a tight close-up of the woman's face, unchanged in lighting and position. The man (S1) says in an off-screen voiceover: <d>[English] I know.</d> while his lips remain completely closed; he is not in this shot.
+
+overall_soundscape: A quiet kitchen at night. A refrigerator compressor running steadily, the low hum of the bulb, one chair shifting under weight, and a clock ticking in the next room. No traffic and no diegetically audible music.
+
+non_diegetic_music: N/A

@@ -1,0 +1,19 @@
+# .gitattributes — keep the text files text and the media binary.
+#
+# Prompts and docs are UTF-8 with no BOM. They are the product of this repository and
+# must diff as text, not as an opaque blob.
+* text=auto eol=lf
+
+*.md    text eol=lf
+*.txt   text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+
+# Media is binary and must never be line-ending converted.
+*.mp4   binary
+*.webm  binary
+*.webp  binary
+*.jpg   binary
+*.jpeg  binary
+*.png   binary
+*.gif   binary

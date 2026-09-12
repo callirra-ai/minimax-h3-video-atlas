@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] Stop-motion animation shot on a tabletop, visible frame-to-frame stutter, no motion blur. A dragon is assembled from dried beans, lentils, rice grains and split peas on a plain grey card surface, in a tight top-down view. The camera holds a static shot throughout. The head forms first from black beans, then the spine assembles itself from alternating red lentils and white rice, segment by segment, each new grain appearing between frames rather than sliding into place. The tail unrolls last, curling toward the upper right of the frame. Soft even studio light from directly above; each pulse casts a small hard shadow to the lower left. The palette is limited to the natural colours of the pulses: black, red, cream and pale green.
+
+overall_soundscape: Dry, quiet and close. Individual hard grains clicking against card as they are set down one at a time, a faint rustle as a handful is moved, and the low hum of the room.
+
+non_diegetic_music: A light pizzicato cello figure at a moderate walking tempo, matched to the rhythm of the grains being placed.

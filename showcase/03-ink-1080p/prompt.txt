@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, high detail. A single sheet of thin rice paper is laid on a dark wooden table, and a brush loaded with black ink is held just above it, motionless. The camera holds a static shot in a tight top-down view. After a beat the hand begins to write a single character, the ink bleeding slightly into the paper's fibre as the stroke is laid down. The camera pushes in with small amplitude at slow speed, tightening until the wet ink and the paper's texture fill the frame. Warm afternoon light comes from a window at the left edge and rakes across the paper, so the raised grain casts a short shadow. Dust motes are visible in the light.
+
+overall_soundscape: A quiet room. The brush bristles drag audibly across the paper, the ink makes a faint wet ticking as the stroke is drawn, and the wooden table creaks once under the pressure of the hand. A clock ticks slowly somewhere behind the camera.
+
+non_diegetic_music: N/A

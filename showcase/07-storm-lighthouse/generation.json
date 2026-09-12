@@ -1,0 +1,25 @@
+{
+  "slug": "07-storm-lighthouse",
+  "title": "Lighthouse in a Storm",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "09165c6a-476b-4905-a2ff-179ff052be80",
+  "requested": {
+    "resolution": "768p竖",
+    "duration": 6
+  },
+  "measured": {
+    "width": 768,
+    "height": 1344,
+    "fps": 24,
+    "durationSec": 6.584,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 4578860
+  },
+  "cost": {
+    "cny": 0.24,
+    "wallSec": 161.4
+  },
+  "file": "768p.mp4"
+}

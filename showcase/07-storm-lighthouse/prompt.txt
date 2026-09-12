@@ -1,0 +1,5 @@
+integrated_multimodal_description: [Shot 1] Live-action, vertical composition, night, storm. A stone lighthouse stands on a rock at the edge of a heavy sea, filling the centre of the frame from the waterline to the base of the lantern room, with dark storm cloud occupying the top third. A large swell runs in from the left and breaks against the rock, throwing spray up past the midpoint of the tower. The beam sweeps through frame from left to right twice during the shot, lighting the spray from the inside each time. The camera holds a static shot at a slight low angle, so the tower leans away from the viewer. Rain falls heavily and is visible as streaks against the beam, not against the sky. Everything outside the beam is near black.
+
+overall_soundscape: Heavy surf breaking on rock and draining back with a long drawn-out hiss, unbroken rain on stone, and wind steady at high speed around the tower with no gusts. Under all of it, a low continuous roar from the sea.
+
+non_diegetic_music: N/A

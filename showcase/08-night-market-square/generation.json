@@ -1,0 +1,25 @@
+{
+  "slug": "08-night-market-square",
+  "title": "Night Market, Square",
+  "mode": "text-to-video",
+  "workflow": "minimax_h3_lightx2v_no_pic",
+  "taskId": "d5b6eaf1-24f0-4d66-9f13-48175704fea8",
+  "requested": {
+    "resolution": "768p(1:1)",
+    "duration": 6
+  },
+  "measured": {
+    "width": 768,
+    "height": 768,
+    "fps": 24,
+    "durationSec": 6.584,
+    "hasAudio": true,
+    "audioHz": 32000,
+    "fileBytes": 4875177
+  },
+  "cost": {
+    "cny": 0.24,
+    "wallSec": 134.6
+  },
+  "file": "768p.mp4"
+}
