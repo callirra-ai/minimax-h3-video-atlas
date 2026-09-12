@@ -8,12 +8,12 @@
 <img src="https://img.shields.io/badge/prompts-50-0969da?style=flat-square" alt="prompts: 50">
 <img src="https://img.shields.io/badge/community%20cases-40-8250df?style=flat-square" alt="community cases: 40">
 <img src="https://img.shields.io/badge/ours%2C%20measured-10-1f9c6b?style=flat-square" alt="ours, measured: 10">
-<img src="https://img.shields.io/badge/lanes%20compared-3-bf8700?style=flat-square" alt="lanes compared: 3">
+<img src="https://img.shields.io/badge/sizes%20compared-4-bf8700?style=flat-square" alt="sizes compared: 4">
 <img src="https://img.shields.io/badge/licence-CC%20BY%204.0-555555?style=flat-square" alt="licence: CC BY 4.0">
 <img src="https://img.shields.io/github/stars/callirra-ai/minimax-h3-video-atlas?style=flat-square&label=stars&color=bf8700" alt="stars">
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome">
 
-<sub><b>Start here</b> · <a href="#the-prompt-format">Prompt format</a> · <a href="#our-cases-measured">Measured cases</a> · <a href="#community-gallery">Community gallery</a> · <a href="#the-lane-comparison">Lane comparison</a> · <a href="#what-breaks">What breaks</a></sub>
+<sub><b>Start here</b> · <a href="#the-prompt-format">Prompt format</a> · <a href="#our-cases-measured">Measured cases</a> · <a href="#community-gallery">Community gallery</a> · <a href="#the-size-comparison">Size comparison</a> · <a href="#what-breaks">What breaks</a></sub>
 
 **[▶ Try any prompt in this repository — it opens with everything already filled in](https://callirra.com/minimax-h3?utm_source=github&utm_medium=h3-atlas&utm_campaign=home)**
 
@@ -23,30 +23,23 @@
 
 ---
 
-## Three routes, one model name
+## Two sizes, and one common mistake
 
-There are three ways to reach H3 and **they do not agree with each other**. That is the
-first thing worth knowing and the last thing most pages tell you.
-
-| | **Official API** | **AutoDL ComfyUI lane** | **KIE lane** |
-|---|---|---|---|
-| Resolutions | `768P`, `2K` | `480P`, `768P`, `1080P` | `2K` |
-| Duration | 4–15 s | **1–15 s** | 4–15 s |
-| Aspect ratios | 6 concrete + `adaptive` | 16:9, 9:16, 1:1 | 6 concrete + `adaptive` |
-| Reference video | yes | **no** | yes |
-| Official list price | $0.08/s · $0.13/s | — | — |
-| Our measured cost | — | **¥0.03–0.10/s** | $0.065/s |
-
-**`480P` and `1080P` are not MiniMax H3 tiers.** The official `resolution` enum is
-`[480P, 768P, 2K]`, and of those `MiniMax-H3` accepts only **`768P` and `2K`** — `480P`
-belongs to `MiniMax-H3-Max`, a different model, and `1080P` belongs to the legacy
-Hailuo 2.3 line on the older v1 endpoints.
+MiniMax documents **two** output sizes for H3: `768P` and `2K`. The official
+`resolution` enum is `[480P, 768P, 2K]`, and of those `MiniMax-H3` accepts only
+**`768P` and `2K`** — `480P` belongs to `MiniMax-H3-Max`, a different model, and
+**`1080P` is not an H3 value at all.** It belongs to the legacy Hailuo 2.3 line on the
+older v1 endpoints. A page advertising "H3 at 1080p" is describing that vendor's pipeline,
+not the model.
 
 **`768P` is the ceiling of the open weights.** The downloadable checkpoints render at a
 default short edge of 768 px. The 2K path and the prompt-preprocessing layer are both
 hosted-only, and MiniMax says so in its own release notes.
 
-**[The full lane comparison and the request matrix →](docs/what-we-measured.md)**
+**Duration is 4–15 seconds, integer.** Aspect ratios are `adaptive`, `21:9`, `16:9`,
+`4:3`, `1:1`, `3:4`, `9:16` — and text-to-video may not use `adaptive`.
+
+**[The request matrix and the size comparison →](docs/what-we-measured.md)**
 
 ---
 
@@ -86,7 +79,7 @@ Three things most prompts get wrong, all covered there:
 
 ## Our cases, measured
 
-Ten clips rendered for this repository through the cheap lane, at 768P and 1080P. Every
+Ten clips rendered for this repository at 768P and 1080P. Every
 settings line under a clip is **what came back**, not what was asked for, and the machine
 readable record sits next to each prompt in `generation.json`.
 
@@ -98,7 +91,7 @@ readable record sits next to each prompt in `generation.json`.
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/768p-h.mp4">watch the full 5.17s clip (3.2 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 512s &nbsp;·&nbsp; ¥0.2 &nbsp;·&nbsp; 3.2 MB</sub>
+<sub>requested <code>768p landscape</code> for 6s &nbsp;·&nbsp; rendered in 512s &nbsp;·&nbsp; ¥0.2 &nbsp;·&nbsp; 3.2 MB</sub>
 
 One light source, one moving subject, one small push. Written in the official three-field format — this is the entry to read if you only read one.
 
@@ -124,7 +117,7 @@ non_diegetic_music: A sparse solo guzheng melody at a slow tempo, played with lo
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/768p-h.mp4">watch the full 5.17s clip (8.4 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 5s &nbsp;·&nbsp; rendered in 139s &nbsp;·&nbsp; ¥0.2 &nbsp;·&nbsp; 8.4 MB</sub>
+<sub>requested <code>768p landscape</code> for 5s &nbsp;·&nbsp; rendered in 139s &nbsp;·&nbsp; ¥0.2 &nbsp;·&nbsp; 8.4 MB</sub>
 
 The same model, written the community way: one paragraph, no field labels. Steam, wet asphalt and a rider held at a constant size by a backward tracking shot.
 
@@ -146,9 +139,9 @@ A neon-lit alley in the rain at night, shot on a 35mm lens at eye level. Steam r
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/1080p-h.mp4">watch the full 5.17s clip (4.8 MB MP4)</a></sub>
 
-<sub>requested <code>1080p横</code> for 5s &nbsp;·&nbsp; rendered in 235s &nbsp;·&nbsp; ¥0.5 &nbsp;·&nbsp; 4.8 MB</sub>
+<sub>requested <code>1080p landscape</code> for 5s &nbsp;·&nbsp; rendered in 235s &nbsp;·&nbsp; ¥0.5 &nbsp;·&nbsp; 4.8 MB</sub>
 
-The top tier, on a subject whose entire value is fine texture — paper fibre and wet ink. Kept in the set so the lane comparison has a 1080P column.
+The top tier, on a subject whose entire value is fine texture — paper fibre and wet ink. Kept in the set so the size comparison has a 1080P column.
 
 **[▶ Try this prompt in a browser →](https://callirra.com/minimax-h3?model=minimax-h3&prompt=integrated_multimodal_description%3A+%5BShot+1%5D+Live-action%2C+cinematic%2C+high+detail.+A+single+sheet+of+thin+rice+paper+is+laid+on+a+dark+wooden+table%2C+and+a+brush+loaded+with+black+ink+is+held+just+above+it%2C+motionless.+The+camera+holds+a+static+shot+in+a+tight+top-down+view.+After+a+beat+the+hand+begins+to+write+a+single+character%2C+the+ink+bleeding+slightly+into+the+paper%27s+fibre+as+the+stroke+is+laid+down.+The+camera+pushes+in+with+small+amplitude+at+slow+speed%2C+tightening+until+the+wet+ink+and+the+paper%27s+texture+fill+the+frame.+Warm+afternoon+light+comes+from+a+window+at+the+left+edge+and+rakes+across+the+paper%2C+so+the+raised+grain+casts+a+short+shadow.+Dust+motes+are+visible+in+the+light.%0A%0Aoverall_soundscape%3A+A+quiet+room.+The+brush+bristles+drag+audibly+across+the+paper%2C+the+ink+makes+a+faint+wet+ticking+as+the+stroke+is+drawn%2C+and+the+wooden+table+creaks+once+under+the+pressure+of+the+hand.+A+clock+ticks+slowly+somewhere+behind+the+camera.%0A%0Anon_diegetic_music%3A+N%2FA&duration=5&resolution=1080P&aspect_ratio=16%3A9&utm_source=github&utm_medium=h3-atlas&utm_campaign=03-ink-1080p)**
 
@@ -172,7 +165,7 @@ non_diegetic_music: N/A
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/768p.mp4">watch the full 6.58s clip (8.0 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 185s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 8.0 MB</sub>
+<sub>requested <code>768p landscape</code> for 6s &nbsp;·&nbsp; rendered in 185s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 8.0 MB</sub>
 
 A wide shot with deliberately small figures — the framing H3 is worst at, used where no face needs to read.
 
@@ -198,7 +191,7 @@ non_diegetic_music: A single sustained cello note, very low, held under the whol
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/768p.mp4">watch the full 6.58s clip (3.3 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 253s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 3.3 MB</sub>
+<sub>requested <code>768p landscape</code> for 6s &nbsp;·&nbsp; rendered in 253s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 3.3 MB</sub>
 
 Stop-motion assembled from dried pulses — a shot about material and assembly rather than camera movement.
 
@@ -224,7 +217,7 @@ non_diegetic_music: A light pizzicato cello figure at a moderate walking tempo, 
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/768p.mp4">watch the full 6.58s clip (6.1 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 180s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 6.1 MB</sub>
+<sub>requested <code>768p landscape</code> for 6s &nbsp;·&nbsp; rendered in 180s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 6.1 MB</sub>
 
 First-person is H3's native grammar — no faces, no wide shots, and every frame is a camera move.
 
@@ -250,7 +243,7 @@ non_diegetic_music: A slow low drone in a minor key with no rhythm, rising very 
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/768p.mp4">watch the full 6.58s clip (4.4 MB MP4)</a></sub>
 
-<sub>requested <code>768p竖</code> for 6s &nbsp;·&nbsp; rendered in 161s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 4.4 MB</sub>
+<sub>requested <code>768p portrait</code> for 6s &nbsp;·&nbsp; rendered in 161s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 4.4 MB</sub>
 
 The vertical canvas, where the tower fills the frame and the sea does the moving.
 
@@ -302,7 +295,7 @@ non_diegetic_music: N/A
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/768p.mp4">watch the full 15.08s clip (14.4 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 15s &nbsp;·&nbsp; rendered in 862s &nbsp;·&nbsp; ¥0.6 &nbsp;·&nbsp; 14.4 MB</sub>
+<sub>requested <code>768p landscape</code> for 15s &nbsp;·&nbsp; rendered in 862s &nbsp;·&nbsp; ¥0.6 &nbsp;·&nbsp; 14.4 MB</sub>
 
 A full fifteen seconds — the longest single generation H3 allows, and the duration the community has settled on almost universally.
 
@@ -330,7 +323,7 @@ non_diegetic_music: A warm mid-tempo acoustic ensemble — guitar, fiddle and li
 
 <sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/768p.mp4">watch the full 8.00s clip (2.1 MB MP4)</a></sub>
 
-<sub>requested <code>768p横</code> for 8s &nbsp;·&nbsp; rendered in 215s &nbsp;·&nbsp; ¥0.32 &nbsp;·&nbsp; 2.1 MB</sub>
+<sub>requested <code>768p landscape</code> for 8s &nbsp;·&nbsp; rendered in 215s &nbsp;·&nbsp; ¥0.32 &nbsp;·&nbsp; 2.1 MB</sub>
 
 Speaker IDs, the <d> dialogue tag, and an off-screen voiceover with the lips-closed clause — the syntax almost nobody gets right.
 
@@ -5743,9 +5736,9 @@ Match the reference video's rapid montage feeling, graphic layering, manga image
 
 ---
 
-## The lane comparison
+## The size comparison
 
-The same prompt at three tiers on the cheap lane. This is the question a gallery should
+The same prompt rendered at three sizes. This is the question a gallery should
 answer and almost none do: **what does the extra money actually buy?**
 
 | | 480P | 768P | 1080P |
@@ -5766,7 +5759,7 @@ into a 1080p timeline the height will not match.
 
 ## What we measured
 
-Fourteen probes on the lane, each checked against the MP4 that came back.
+Fourteen probes, each checked against the MP4 that came back.
 
 **[The full request matrix →](docs/what-we-measured.md)**
 
@@ -5798,40 +5791,32 @@ of the model), the dead bracket syntax, and what a >15 s take does to continuity
 4. **Draft at 480P, deliver at 768P.** A 480P test costs a fifth of a 1080P render and takes
    a fifth of the time. Look at the motion before paying for the take.
 
-## Settings and workflows
+## Sizes and what comes back
 
-| Requested | Measured | Lane |
-|---|---|---|
-| `480p横` · `480p竖` · `480p(1:1)` | 864×480 · 480×864 · 480×480 | AutoDL |
-| `768p横` · `768p竖` · `768p(1:1)` | 1344×768 · 768×1344 · 768×768 | AutoDL |
-| `1080p横` · `1080p竖` · `1080p(1:1)` | 1920×1056 · 1056×1920 · 1056×1056 | AutoDL |
-| `2K` | 2560×1440 | KIE |
+| Requested | Measured output |
+|---|---|
+| 480P landscape · portrait · square | 864×480 · 480×864 · 480×480 |
+| 768P landscape · portrait · square | 1344×768 · 768×1344 · 768×768 |
+| 1080P landscape · portrait · square | 1920×1056 · 1056×1920 · 1056×1056 |
+| 2K | 2560×1440 |
+Every clip came back as **H.264 at 24 fps with an AAC stereo track at 32 kHz**, regardless
+of size. Anything less than 4 seconds rounds up — the model snaps to a 17k+5 frame grid.
 
-Six workflows do all of it. Which one runs is decided by the tier and what you attach, not
-by a setting you pick:
-
-| Workflow | Does | Tiers |
-|---|---|---|
-| `lightx2v_no_pic` | text-to-video | 480p, 768p |
-| `image_audio_to_video_v2` | references, and the only 1080p path with no reference | 480p, 768p, 1080p |
-| `zm_u24` | 1–9 reference images | 480p, 768p |
-| `lightx2v_v5` | references, the only square 1080p canvas | 480p, 768p, 1080p (1:1) |
-| `lightx2v` | first + last frame | 480p, 768p |
-| `image_audio_to_video` | image + audio, lip-synced | 480p, 768p, 1080p |
-
-**There is no video-to-video on this lane.** Every published workflow takes text, images and
-audio only — the third mode H3 supports has to go through the official API or KIE.
+**Video-to-video is a different door.** H3 supports it through references, but the reference
+path takes images and audio in the workflows we render with; driving a clip through the
+model as an edit source needs the multimodal endpoint, where a reference video is one of the
+accepted inputs alongside the images.
 
 ## Repository layout
 
 ```
 README.md              this page
 CATALOG.md             all 40 community cases as a plain table, no media
-showcase/              our own clips: prompt, poster, MP4, generation record
+showcase/              our own clips: prompt, preview loop, poster, MP4, generation record
 assets/community/      posters for the community gallery
 docs/
   prompt-format.md     the documented field structure and vocabulary
-  what-we-measured.md  the request matrix, the three lanes
+  what-we-measured.md  the request matrix and the size comparison
   what-breaks.md       failure modes and the fixes
 ```
 

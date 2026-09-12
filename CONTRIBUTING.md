@@ -94,7 +94,8 @@ name is enough.
 - Prompts copied from another gallery without checking they trace back to the creator.
 - Clips or prompt text taken from a repository whose licence does not permit it.
 - Anything that presents a vendor's pipeline result as the model's capability — a
-  "1080P H3" clip is fine, but it must say which lane produced it.
+  "1080P H3" clip is fine, but it must say what produced it, because `1080P` is not an
+  H3 size.
 
 ---
 
