@@ -361,6 +361,8 @@ not in this repository at all.
 
 [<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/official-fl2va-ramen.webp" alt="Ramen Rack Focus" width="100%">](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/scripts/readme/reproducible-768p-fl2va-request.sh)
 
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
+
 <sub><b>▶ <a href="https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/scripts/readme/reproducible-768p-fl2va-request.sh">Watch the clip on MiniMax's official reproducible script</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
 <sub>Uses a ramen image as the opening-frame constraint, then gradually racks focus so the foreground steam softens while the family in the background comes into view, testing depth of field and ensemble motion.</sub>
@@ -390,6 +392,8 @@ non_diegetic_music: A gentle, heartwarming acoustic guitar melody plays softly i
 
 [<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/official-t2va-starship.webp" alt="After the Fleet Jumps" width="100%">](https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/scripts/readme/reproducible-768p-t2va-request.sh)
 
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
+
 <sub><b>▶ <a href="https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/scripts/readme/reproducible-768p-t2va-request.sh">Watch the clip on MiniMax's official reproducible script</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
 <sub>Moves from a medium-wide view of a starship bridge to a close-up of the captain, using native stereo audio to synchronize the fleet jump, spatial shock, and the suddenly quiet aftermath.</sub>
@@ -413,7 +417,9 @@ non_diegetic_music: Cinematic space-opera orchestral score, slow tempo, featurin
 
 <sub>Just_sharon7 &nbsp;·&nbsp; Unknown &nbsp;·&nbsp; 15.168 &nbsp;·&nbsp; 1440p &nbsp;·&nbsp; 16:9</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2094305294117429711.jpg" alt="Jade Panic: A Yellow-and-Green Character Entrance" width="100%">](https://x.com/Just_sharon7/status/2094305294117429711)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2094305294117429711.webp" alt="Jade Panic: A Yellow-and-Green Character Entrance" width="100%">](https://x.com/Just_sharon7/status/2094305294117429711)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/Just_sharon7/status/2094305294117429711">Watch the clip on the creator's post on X (@Just_sharon7)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -465,7 +471,9 @@ No hand reaching toward camera, no palm covering the lens, no pointing into the 
 
 <sub>Umesh &nbsp;·&nbsp; Unknown &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2084227244533411987.jpg" alt="Turning an Educational Vision into an Experience" width="100%">](https://x.com/umesh_ai/status/2084227244533411987)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2084227244533411987.webp" alt="Turning an Educational Vision into an Experience" width="100%">](https://x.com/umesh_ai/status/2084227244533411987)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/umesh_ai/status/2084227244533411987">Watch the clip on the creator's post on X (@Umesh)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -640,7 +648,9 @@ The final video should feel cute, educational, memorable, calming, and exception
 
 <sub>ai_lifehack55 &nbsp;·&nbsp; Unknown &nbsp;·&nbsp; 15.139 &nbsp;·&nbsp; 1440p &nbsp;·&nbsp; 1:1</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2094985989404205107.jpg" alt="Escaping a Manga Book, Meeting Another Self" width="100%">](https://x.com/ai_lifehack55/status/2094985989404205107)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2094985989404205107.webp" alt="Escaping a Manga Book, Meeting Another Self" width="100%">](https://x.com/ai_lifehack55/status/2094985989404205107)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/ai_lifehack55/status/2094985989404205107">Watch the clip on the creator's post on X (@ai_lifehack55)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -703,7 +713,9 @@ non_diegetic_music:
 
 <sub>ImaStudio_ai &nbsp;·&nbsp; Unknown &nbsp;·&nbsp; 15.402 &nbsp;·&nbsp; 720p &nbsp;·&nbsp; 16:9</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095357375549182080.jpg" alt="A Live-Action Muse Meets a Tiny 2D Fairy" width="100%">](https://x.com/ImaStudio_ai/status/2095357375549182080)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095357375549182080.webp" alt="A Live-Action Muse Meets a Tiny 2D Fairy" width="100%">](https://x.com/ImaStudio_ai/status/2095357375549182080)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/ImaStudio_ai/status/2095357375549182080">Watch the clip on the creator's post on X (@ImaStudio_ai)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -755,7 +767,9 @@ No second human/fairy, duplicates, face drift, hairstyle/color/costume changes, 
 
 <sub>Sharon Riley &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2544×1456 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095516988743225637.jpg" alt="A Lemon-Themed Girl Powers a Bright Motion Ad" width="100%">](https://x.com/Just_sharon7/status/2095516988743225637)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095516988743225637.webp" alt="A Lemon-Themed Girl Powers a Bright Motion Ad" width="100%">](https://x.com/Just_sharon7/status/2095516988743225637)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/Just_sharon7/status/2095516988743225637">Watch the clip on the creator's post on X (@Sharon Riley)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -814,7 +828,9 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and vibrant, st
 
 <sub>aimikoda &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15.168 &nbsp;·&nbsp; 1440p &nbsp;·&nbsp; 16:9</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2094490203335352524.jpg" alt="A City Painted into Existence" width="100%">](https://x.com/aimikoda/status/2094490203335352524)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2094490203335352524.webp" alt="A City Painted into Existence" width="100%">](https://x.com/aimikoda/status/2094490203335352524)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/aimikoda/status/2094490203335352524">Watch the clip on the creator's post on X (@aimikoda)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -858,7 +874,9 @@ The overall feeling should be luxurious, poetic and visually intense, with conti
 
 <sub>aimikoda &nbsp;·&nbsp; Unknown &nbsp;·&nbsp; 15.168 &nbsp;·&nbsp; 1440p &nbsp;·&nbsp; 4:3</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095141166962311555.jpg" alt="Building a Character Bust from Scratch" width="100%">](https://x.com/aimikoda/status/2095141166962311555)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095141166962311555.webp" alt="Building a Character Bust from Scratch" width="100%">](https://x.com/aimikoda/status/2095141166962311555)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/aimikoda/status/2095141166962311555">Watch the clip on the creator's post on X (@aimikoda)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -881,7 +899,9 @@ A cinematic creation film follows one maker reconstructing the main subject show
 
 <sub>Sharon Riley &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2544×1456 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095473707611553897.jpg" alt="Two Hands Draw a Woman at Her Vanity from Blank Paper" width="100%">](https://x.com/Just_sharon7/status/2095473707611553897)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2095473707611553897.webp" alt="Two Hands Draw a Woman at Her Vanity from Blank Paper" width="100%">](https://x.com/Just_sharon7/status/2095473707611553897)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/Just_sharon7/status/2095473707611553897">Watch the clip on the creator's post on X (@Sharon Riley)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -913,7 +933,9 @@ Satisfying, calm, close-up process video. Continuous take, no cuts, no extra mot
 
 <sub>Ruzaina &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1280×720 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2087117707816714552.jpg" alt="A Vintage 1947 Town Under Fire" width="100%">](https://x.com/RuzainaMeer/status/2087117707816714552)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2087117707816714552.webp" alt="A Vintage 1947 Town Under Fire" width="100%">](https://x.com/RuzainaMeer/status/2087117707816714552)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/RuzainaMeer/status/2087117707816714552">Watch the clip on the creator's post on X (@Ruzaina)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -951,7 +973,9 @@ Negative Prompt: modern buildings, modern cars, smartphones, modern clothing, mo
 
 <sub>Kōda &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 720×1280 &nbsp;·&nbsp; portrait</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086122377633575169.jpg" alt="Kaze’s Player Stats Screen Powers Up" width="100%">](https://x.com/aimikoda/status/2086122377633575169)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086122377633575169.webp" alt="Kaze’s Player Stats Screen Powers Up" width="100%">](https://x.com/aimikoda/status/2086122377633575169)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/aimikoda/status/2086122377633575169">Watch the clip on the creator's post on X (@Kōda)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -989,7 +1013,9 @@ Audio: low electronic boot hum, delicate scanning ticks, short confirmation tone
 
 <sub>Kōda &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2410×2560 &nbsp;·&nbsp; portrait</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086412223061135392.jpg" alt="A Cinematic Character Entrance in the Wind" width="100%">](https://x.com/aimikoda/status/2086412223061135392)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086412223061135392.webp" alt="A Cinematic Character Entrance in the Wind" width="100%">](https://x.com/aimikoda/status/2086412223061135392)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/aimikoda/status/2086412223061135392">Watch the clip on the creator's post on X (@Kōda)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -1035,7 +1061,9 @@ Place the character in a fitting environment that supports their identity and mo
 
 <sub>タナベ | AI動画 × マーケティング &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2089141649503044017.jpg" alt="Multiplication Tables with Fish Pairs" width="100%">](https://x.com/tanabe_fragm/status/2089141649503044017)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2089141649503044017.webp" alt="Multiplication Tables with Fish Pairs" width="100%">](https://x.com/tanabe_fragm/status/2089141649503044017)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/tanabe_fragm/status/2089141649503044017">Watch the clip on the creator's post on X (@タナベ | AI動画 × マーケティング)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -1072,7 +1100,9 @@ non_diegetic_music: A light nursery jingle at a steady moderate tempo using mari
 
 <sub>タナベ | AI動画 × マーケティング &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2090306302966919515.jpg" alt="Orange-and-Black Street Dance Commercial" width="100%">](https://x.com/tanabe_fragm/status/2090306302966919515)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2090306302966919515.webp" alt="Orange-and-Black Street Dance Commercial" width="100%">](https://x.com/tanabe_fragm/status/2090306302966919515)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/tanabe_fragm/status/2090306302966919515">Watch the clip on the creator's post on X (@タナベ | AI動画 × マーケティング)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -1200,7 +1230,9 @@ resolves at 15.000 seconds.
 
 <sub>FoldingEnd A.I. &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1280×736 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092003946407870917.jpg" alt="A Green Power Ring Constructs a Sports Car" width="100%">](https://x.com/EndFolding79421/status/2092003946407870917)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092003946407870917.webp" alt="A Green Power Ring Constructs a Sports Car" width="100%">](https://x.com/EndFolding79421/status/2092003946407870917)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/EndFolding79421/status/2092003946407870917">Watch the clip on the creator's post on X (@FoldingEnd A.I.)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -1418,7 +1450,9 @@ None.
 
 <sub>Loriel.AI &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 3840×2160 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096980289184805308.jpg" alt="A Last Handhold on a Blizzard Cliff" width="100%">](https://x.com/ou_zhen599/status/2096980289184805308)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096980289184805308.webp" alt="A Last Handhold on a Blizzard Cliff" width="100%">](https://x.com/ou_zhen599/status/2096980289184805308)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/ou_zhen599/status/2096980289184805308">Watch the clip on the creator's post on X (@Loriel.AI)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -1464,7 +1498,9 @@ N/A
 
 <sub>Loriel.AI &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 3840×2160 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096921323624972600.jpg" alt="A Teasing Conversation by the Starship Window" width="100%">](https://x.com/ou_zhen599/status/2096921323624972600)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096921323624972600.webp" alt="A Teasing Conversation by the Starship Window" width="100%">](https://x.com/ou_zhen599/status/2096921323624972600)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/ou_zhen599/status/2096921323624972600">Watch the clip on the creator's post on X (@Loriel.AI)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -1493,7 +1529,9 @@ non_diegetic_music: N/A
 
 <sub>ManuAGI 🤖 - ( ManuIn ) &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086321605073105162.jpg" alt="The Boy Who Chases a Midnight Dragon" width="100%">](https://x.com/ManuAGI01/status/2086321605073105162)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086321605073105162.webp" alt="The Boy Who Chases a Midnight Dragon" width="100%">](https://x.com/ManuAGI01/status/2086321605073105162)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/ManuAGI01/status/2086321605073105162">Watch the clip on the creator's post on X (@ManuAGI 🤖 - ( ManuIn ))</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -2905,7 +2943,9 @@ and
 
 <sub>ManuAGI 🤖 - ( ManuIn ) &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086294164409630916.jpg" alt="3,200 Paper Stars on a Rooftop" width="100%">](https://x.com/ManuAGI01/status/2086294164409630916)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2086294164409630916.webp" alt="3,200 Paper Stars on a Rooftop" width="100%">](https://x.com/ManuAGI01/status/2086294164409630916)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/ManuAGI01/status/2086294164409630916">Watch the clip on the creator's post on X (@ManuAGI 🤖 - ( ManuIn ))</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4278,7 +4318,9 @@ The viewer should immediately want to see how 3,200 tiny stars transform the nig
 
 <sub>マグマグ &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 10 &nbsp;·&nbsp; 1344×768 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096749565412331841.jpg" alt="Hawaii Grows From a Chocolate Egg" width="100%">](https://x.com/loglogrog/status/2096749565412331841)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096749565412331841.webp" alt="Hawaii Grows From a Chocolate Egg" width="100%">](https://x.com/loglogrog/status/2096749565412331841)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/loglogrog/status/2096749565412331841">Watch the clip on the creator's post on X (@マグマグ)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4426,7 +4468,9 @@ A warm, elegant, slightly magical commercial score. Soft piano and delicate orch
 
 <sub>EndFolding79421 &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 8.064 &nbsp;·&nbsp; 360p &nbsp;·&nbsp; 161:90</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2088060516027785340.jpg" alt="A Train Window Travels through History" width="100%">](https://x.com/EndFolding79421/status/2088060516027785340)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2088060516027785340.webp" alt="A Train Window Travels through History" width="100%">](https://x.com/EndFolding79421/status/2088060516027785340)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/EndFolding79421/status/2088060516027785340">Watch the clip on the creator's post on X (@EndFolding79421)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4729,7 +4773,9 @@ N/A
 
 <sub>renataro9 &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15.168 &nbsp;·&nbsp; 720p &nbsp;·&nbsp; 7:4</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2089573433806098785.jpg" alt="A White Cat Summer Calendar Animation" width="100%">](https://x.com/renataro9/status/2089573433806098785)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2089573433806098785.webp" alt="A White Cat Summer Calendar Animation" width="100%">](https://x.com/renataro9/status/2089573433806098785)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/renataro9/status/2089573433806098785">Watch the clip on the creator's post on X (@renataro9)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4752,7 +4798,9 @@ integrated_multimodal_description: [Shot 1] 15秒間の一続きの映像。「�
 
 <sub>AI Bard Guild &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 480×800 &nbsp;·&nbsp; portrait</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096577196915900712.jpg" alt="A Cat-Eared Chef Finishes a Plate of Fried Rice" width="100%">](https://x.com/IsekaiBardGuild/status/2096577196915900712)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096577196915900712.webp" alt="A Cat-Eared Chef Finishes a Plate of Fried Rice" width="100%">](https://x.com/IsekaiBardGuild/status/2096577196915900712)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/IsekaiBardGuild/status/2096577196915900712">Watch the clip on the creator's post on X (@AI Bard Guild)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4781,7 +4829,9 @@ non_diegetic_music: An upbeat, heartwarming orchestral track with a fast tempo, 
 
 <sub>FoldingEnd A.I. &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1376x768 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-endfolding-rainy-bar-comparison.jpg" alt="Rainy Bar Continuous-Tracking Comparison" width="100%">](https://x.com/EndFolding79421/status/2086584639091536239)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-endfolding-rainy-bar-comparison.webp" alt="Rainy Bar Continuous-Tracking Comparison" width="100%">](https://x.com/EndFolding79421/status/2086584639091536239)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/EndFolding79421/status/2086584639091536239">Watch the clip on the creator's post on X (@FoldingEnd A.I.)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4823,7 +4873,9 @@ None.
 
 <sub>Syed Abuthahir ∞ &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2085793101600428386.jpg" alt="Dancing Across the Magical Islands of Malta" width="100%">](https://x.com/abulu8/status/2085793101600428386)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2085793101600428386.webp" alt="Dancing Across the Magical Islands of Malta" width="100%">](https://x.com/abulu8/status/2085793101600428386)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/abulu8/status/2085793101600428386">Watch the clip on the creator's post on X (@Syed Abuthahir ∞)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4881,7 +4933,9 @@ None.
 
 <sub>Larus Canus &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2085272318649987242.jpg" alt="Eight Lyric Frames Become a K-Pop Performance" width="100%">](https://x.com/MrLarus/status/2085272318649987242)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2085272318649987242.webp" alt="Eight Lyric Frames Become a K-Pop Performance" width="100%">](https://x.com/MrLarus/status/2085272318649987242)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/MrLarus/status/2085272318649987242">Watch the clip on the creator's post on X (@Larus Canus)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4947,7 +5001,9 @@ Keep the SAME Korean woman about 22 as the reference image: same facial identity
 
 <sub>Dheepan Ratnam &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2084201268977844521.jpg" alt="Cairn Munro Arrives in Motion Type" width="100%">](https://x.com/Dheepanratnam/status/2084201268977844521)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2084201268977844521.webp" alt="Cairn Munro Arrives in Motion Type" width="100%">](https://x.com/Dheepanratnam/status/2084201268977844521)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/Dheepanratnam/status/2084201268977844521">Watch the clip on the creator's post on X (@Dheepan Ratnam)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -4970,7 +5026,9 @@ CAIRN MUNRO — "ARRIVE UNHEARD" — 14 CUTS · 15s · 2K · 24fps  REFERENCES: 
 
 <sub>Leo &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2083240416166748313.jpg" alt="A Y2K K-Pop Girl-Group Rap Sequence" width="100%">](https://x.com/LeoCreaIA/status/2083240416166748313)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2083240416166748313.webp" alt="A Y2K K-Pop Girl-Group Rap Sequence" width="100%">](https://x.com/LeoCreaIA/status/2083240416166748313)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/LeoCreaIA/status/2083240416166748313">Watch the clip on the creator's post on X (@Leo)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5013,7 +5071,9 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 
 <sub>mayv@簡単プロ級プロンプト公開中！ &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092387240664326495.jpg" alt="A Magical Apprentice and Her Rabbits in a Character PV" width="100%">](https://x.com/haruuraeadss/status/2092387240664326495)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092387240664326495.webp" alt="A Magical Apprentice and Her Rabbits in a Character PV" width="100%">](https://x.com/haruuraeadss/status/2092387240664326495)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/haruuraeadss/status/2092387240664326495">Watch the clip on the creator's post on X (@mayv@簡単プロ級プロンプト公開中！)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5036,7 +5096,9 @@ Create a 14.8-second bright, colorful premium anime game character PV with cute 
 
 <sub>C’est La Vie | AI Director &nbsp;·&nbsp; Ref2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2093842404159947111.jpg" alt="Nine Character Looks Tear into a Game Promo" width="100%">](https://x.com/sailorv321/status/2093842404159947111)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2093842404159947111.webp" alt="Nine Character Looks Tear into a Game Promo" width="100%">](https://x.com/sailorv321/status/2093842404159947111)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/sailorv321/status/2093842404159947111">Watch the clip on the creator's post on X (@C’est La Vie | AI Director)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5119,7 +5181,9 @@ FINAL INTENT：
 
 <sub>Riccardo &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 2560×1440 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096761524698169807.jpg" alt="A Streetwear Performer Breaks Through the Poster Grid" width="100%">](https://x.com/RickTripstar/status/2096761524698169807)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2096761524698169807.webp" alt="A Streetwear Performer Breaks Through the Poster Grid" width="100%">](https://x.com/RickTripstar/status/2096761524698169807)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/RickTripstar/status/2096761524698169807">Watch the clip on the creator's post on X (@Riccardo)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5158,7 +5222,9 @@ GLOBAL LOCKS: one protagonist only, stable anime identity and outfit integrated 
 
 <sub>Photogenic Weekend &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1920×1070 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2093133440359317751.jpg" alt="An Anime Girl Takes Shape Stroke by Stroke" width="100%">](https://x.com/PhotogenicWeekE/status/2093133440359317751)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2093133440359317751.webp" alt="An Anime Girl Takes Shape Stroke by Stroke" width="100%">](https://x.com/PhotogenicWeekE/status/2093133440359317751)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/PhotogenicWeekE/status/2093133440359317751">Watch the clip on the creator's post on X (@Photogenic Weekend)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5187,7 +5253,9 @@ non_diegetic_music: N/A
 
 <sub>Squeak Al-Gaib &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 12 &nbsp;·&nbsp; 1376×768 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-squeakalgaib-2086531027347144916.jpg" alt="Sheldon and Penny from Prompts Alone" width="100%">](https://x.com/SqueakAlGaib/status/2086531027347144916)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-squeakalgaib-2086531027347144916.webp" alt="Sheldon and Penny from Prompts Alone" width="100%">](https://x.com/SqueakAlGaib/status/2086531027347144916)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/SqueakAlGaib/status/2086531027347144916">Watch the clip on the creator's post on X (@Squeak Al-Gaib)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5304,7 +5372,9 @@ Maintain extremely tight facial framing, high-definition facial clarity, accurat
 
 <sub>MadMax &nbsp;·&nbsp; FL2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1080×1080 &nbsp;·&nbsp; square</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2083855654205186452.jpg" alt="A 2K-versus-720P Generation Face-Off" width="100%">](https://x.com/MadMax_Series/status/2083855654205186452)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2083855654205186452.webp" alt="A 2K-versus-720P Generation Face-Off" width="100%">](https://x.com/MadMax_Series/status/2083855654205186452)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/MadMax_Series/status/2083855654205186452">Watch the clip on the creator's post on X (@MadMax)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5365,7 +5435,9 @@ Exactly one dragon and one rider. The rider is seated on the dragon from the beg
 
 <sub>MadMax &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1080×1080 &nbsp;·&nbsp; square</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2083501727836225758.jpg" alt="A Fantasy Face-Off from the Same Prompt" width="100%">](https://x.com/MadMax_Series/status/2083501727836225758)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2083501727836225758.webp" alt="A Fantasy Face-Off from the Same Prompt" width="100%">](https://x.com/MadMax_Series/status/2083501727836225758)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/MadMax_Series/status/2083501727836225758">Watch the clip on the creator's post on X (@MadMax)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5543,7 +5615,9 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 
 <sub>goldwing &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 17 &nbsp;·&nbsp; 864×480 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092385200420647307.jpg" alt="Manga Characters Race Through Dense Motion Graphics" width="100%">](https://x.com/goldwing_zoome/status/2092385200420647307)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092385200420647307.webp" alt="Manga Characters Race Through Dense Motion Graphics" width="100%">](https://x.com/goldwing_zoome/status/2092385200420647307)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/goldwing_zoome/status/2092385200420647307">Watch the clip on the creator's post on X (@goldwing)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
@@ -5717,7 +5791,9 @@ Match the reference video's rapid montage feeling, graphic layering, manga image
 
 <sub>すーさん &nbsp;·&nbsp; T2VA &nbsp;·&nbsp; 15 &nbsp;·&nbsp; 1344×768 &nbsp;·&nbsp; landscape</sub>
 
-[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092371886961578401.jpg" alt="A Yamanba Gal Transformation That Keeps Escalating" width="100%">](https://x.com/su_nagomi/status/2092371886961578401)
+[<img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/assets/community/x-2092371886961578401.webp" alt="A Yamanba Gal Transformation That Keeps Escalating" width="100%">](https://x.com/su_nagomi/status/2092371886961578401)
+
+<sub>▶ 2.5-second loop from the original clip — click through to watch it in full.</sub>
 
 <sub><b>▶ <a href="https://x.com/su_nagomi/status/2092371886961578401">Watch the clip on the creator's post on X (@すーさん)</a></b> — the video stays on the creator's own post; it is not re-hosted here.</sub>
 
