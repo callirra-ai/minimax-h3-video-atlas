@@ -94,10 +94,9 @@ readable record sits next to each prompt in `generation.json`.
 
 <sub>Cinematic &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 5.17s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/768p-h.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/768p-h.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/768p-h.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/preview.webp" alt="Lantern on a Canal — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/01-lantern-canal/768p-h.mp4">watch the full 5.17s clip (3.2 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 512s &nbsp;·&nbsp; ¥0.2 &nbsp;·&nbsp; 3.2 MB</sub>
 
@@ -121,10 +120,9 @@ non_diegetic_music: A sparse solo guzheng melody at a slow tempo, played with lo
 
 <sub>Cinematic &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 5.17s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/768p-h.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/768p-h.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/768p-h.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/preview.webp" alt="Alley After Rain — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/02-alley-after-rain/768p-h.mp4">watch the full 5.17s clip (8.4 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 5s &nbsp;·&nbsp; rendered in 139s &nbsp;·&nbsp; ¥0.2 &nbsp;·&nbsp; 8.4 MB</sub>
 
@@ -144,10 +142,9 @@ A neon-lit alley in the rain at night, shot on a 35mm lens at eye level. Steam r
 
 <sub>Cinematic &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1920 × 1056</b> &nbsp;·&nbsp; 5.17s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/1080p-h.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/1080p-h.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/1080p-h.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/preview.webp" alt="One Stroke of Ink — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/03-ink-1080p/1080p-h.mp4">watch the full 5.17s clip (4.8 MB MP4)</a></sub>
 
 <sub>requested <code>1080p横</code> for 5s &nbsp;·&nbsp; rendered in 235s &nbsp;·&nbsp; ¥0.5 &nbsp;·&nbsp; 4.8 MB</sub>
 
@@ -171,10 +168,9 @@ non_diegetic_music: N/A
 
 <sub>World building &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 6.58s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/preview.webp" alt="Caravan at Dusk — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/04-caravan-dusk/768p.mp4">watch the full 6.58s clip (8.0 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 185s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 8.0 MB</sub>
 
@@ -198,10 +194,9 @@ non_diegetic_music: A single sustained cello note, very low, held under the whol
 
 <sub>Motion graphics &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 6.58s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/preview.webp" alt="Dragon Made of Seeds — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/05-seed-dragon/768p.mp4">watch the full 6.58s clip (3.3 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 253s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 3.3 MB</sub>
 
@@ -225,10 +220,9 @@ non_diegetic_music: A light pizzicato cello figure at a moderate walking tempo, 
 
 <sub>Game &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 6.58s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/preview.webp" alt="First-Person Corridor — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/06-fps-corridor/768p.mp4">watch the full 6.58s clip (6.1 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 6s &nbsp;·&nbsp; rendered in 180s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 6.1 MB</sub>
 
@@ -252,10 +246,9 @@ non_diegetic_music: A slow low drone in a minor key with no rhythm, rising very 
 
 <sub>Cinematic &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>768 × 1344</b> &nbsp;·&nbsp; 6.58s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/preview.webp" alt="Lighthouse in a Storm — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/07-storm-lighthouse/768p.mp4">watch the full 6.58s clip (4.4 MB MP4)</a></sub>
 
 <sub>requested <code>768p竖</code> for 6s &nbsp;·&nbsp; rendered in 161s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 4.4 MB</sub>
 
@@ -279,10 +272,9 @@ non_diegetic_music: N/A
 
 <sub>Documentary &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>768 × 768</b> &nbsp;·&nbsp; 6.58s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/08-night-market-square/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/08-night-market-square/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/08-night-market-square/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/08-night-market-square/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/08-night-market-square/preview.webp" alt="Night Market, Square — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/08-night-market-square/768p.mp4">watch the full 6.58s clip (4.6 MB MP4)</a></sub>
 
 <sub>requested <code>768p(1:1)</code> for 6s &nbsp;·&nbsp; rendered in 135s &nbsp;·&nbsp; ¥0.24 &nbsp;·&nbsp; 4.6 MB</sub>
 
@@ -306,10 +298,9 @@ non_diegetic_music: N/A
 
 <sub>Cinematic &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 15.08s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/preview.webp" alt="Kite Festival, Full Length — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/09-kite-festival-15s/768p.mp4">watch the full 15.08s clip (14.4 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 15s &nbsp;·&nbsp; rendered in 862s &nbsp;·&nbsp; ¥0.6 &nbsp;·&nbsp; 14.4 MB</sub>
 
@@ -335,10 +326,9 @@ non_diegetic_music: A warm mid-tempo acoustic ensemble — guitar, fiddle and li
 
 <sub>Dialogue &nbsp;·&nbsp; text to video &nbsp;·&nbsp; <b>1344 × 768</b> &nbsp;·&nbsp; 8.00s &nbsp;·&nbsp; 24 fps &nbsp;·&nbsp; native stereo audio @ 32 kHz</sub>
 
-<video controls muted loop playsinline width="100%" preload="metadata" poster="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/poster.jpg">
-  <source src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/768p.mp4" type="video/mp4">
-  Your browser cannot play this clip — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/768p.mp4">download it</a> instead.
-</video>
+<a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/768p.mp4"><img src="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/preview.webp" alt="Two Speakers, One Line Each — 3 second loop" width="100%"></a>
+
+<sub>▶ 3-second loop, 10 fps — <a href="https://raw.githubusercontent.com/callirra-ai/minimax-h3-video-atlas/main/showcase/10-two-speakers/768p.mp4">watch the full 8.00s clip (2.1 MB MP4)</a></sub>
 
 <sub>requested <code>768p横</code> for 8s &nbsp;·&nbsp; rendered in 215s &nbsp;·&nbsp; ¥0.32 &nbsp;·&nbsp; 2.1 MB</sub>
 
